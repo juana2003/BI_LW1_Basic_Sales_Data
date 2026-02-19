@@ -10,15 +10,7 @@
 
 ○ Is “Sales” formatted as Decimal Number? No it was not formatted as Decimal
 
-If Data Type is Incorrect:
-1. Click the column
-2. Go to Column Tools
-3. Change Data Type accordingly:
-○ Date → Date
-○ Sales → Decimal Number
-○ Product/Category/Region → Text
-
-
+![Quick Visualization Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/e12885315ecf20bbb99b3d3667ef513e8b8f2ced/Quick%20Visualization.png)
 
 
 PART 4: Basic Data Insight Interpretation
