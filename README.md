@@ -5,7 +5,9 @@
 
  
 ○ Are all columns visible? yes all columns are visible
+
 ○ Is “Date” formatted as Date? yes it's already formatted 
+
 ○ Is “Sales” formatted as Decimal Number? No it was not formatted as Decimal
 
 If Data Type is Incorrect:
