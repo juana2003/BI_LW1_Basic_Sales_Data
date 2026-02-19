@@ -12,6 +12,9 @@
 
 ![Quick Visualization Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/e12885315ecf20bbb99b3d3667ef513e8b8f2ced/Quick%20Visualization.png)
 
+What type of chart was created?
+What does it show?
+
 
 PART 4: Basic Data Insight Interpretation
 
