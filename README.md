@@ -29,7 +29,7 @@ CREATING AUTO-GENERATE VISUALS
 
 ● What type of chart was created? Clustered column chart
 
-● What does it show? it shows the sum of sales in for of chart
+● What does it show? it shows the sum of sales in form of chart
 
 CREATING SALES BY REGION CHART
 
