@@ -56,6 +56,7 @@ SALES OVER TIME
 
 BASIC DATA INSIGHT INTERPRETATION
 
+
 ● Which region contributes most revenue? The West region contributes the most revenue, as it has the tallest bar among all regions.
 
 ● Which product category performs best? Electronics performs best, having the largest share in the pie chart (about 40.82%), which is higher than Furniture and Office Supplies.
@@ -73,8 +74,10 @@ Since sales are decreasing:
 3. Invest more in Electronics, since it is the top-performing category.
    
 4. Improve strategies in lower-performing regions like North.
+   
 
 TECHNICAL QUESTIONS
+
 
 1. What are the five columns in the dataset? Date, Product, Catgory, Region and Sales
    
@@ -88,6 +91,7 @@ TECHNICAL QUESTIONS
 
 
  ANALYTICAL QUESTIONS
+ 
 
 6. Which region has the highest total sales? West
 
