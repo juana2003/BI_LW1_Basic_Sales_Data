@@ -114,10 +114,16 @@ TECHNICAL QUESTIONS
 ENHANCEMENT SECTION
 
 
+Task 1: Add a Card Visualization
+
+![SALES OVER TIME Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/0740ee0866238e3ce855dca21a0c5763488920a8/Card%20Visualization.jpg)
+
 Question:
 ● What is the total sales amount? ₱220,229
 
 Task 2: Add Slicer
+
+![SALES OVER TIME Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/0740ee0866238e3ce855dca21a0c5763488920a8/Add%20slicer.jpg)
 
 Question:
 ● What happens to other visuals when you click a region? It displays a total sales of each region
@@ -125,9 +131,12 @@ Question:
 
 Task 3: Sort Sales
 
+![SALES OVER TIME Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/0740ee0866238e3ce855dca21a0c5763488920a8/Sort%20Decending.jpg)
+
 Question:
 ● Does sorting improve readability? yes sorting improves readability.
 ● Why?  Because sorting organizes the data in a clear.
+
 
 Task 4: Identify Outliers
 
