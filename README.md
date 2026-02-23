@@ -108,3 +108,44 @@ TECHNICAL QUESTIONS
     
      Based on the data, one actionable recommendation is to invest in marketing and training for the North region and the Office Supplies category.
      This could help boost sales in underperforming areas while maintaining strong performance in the West region.
+
+
+
+ENHANCEMENT SECTION
+
+
+Question:
+● What is the total sales amount? ₱220,229
+
+Task 2: Add Slicer
+
+Question:
+● What happens to other visuals when you click a region? It displays a total sales of each region
+● Why is filtering important in BI? Filtering is important because it lets you see only the data you need, making analysis clearer, faster, and more useful.
+
+Task 3: Sort Sales
+
+Question:
+● Does sorting improve readability? yes sorting improves readability.
+● Why?  Because sorting organizes the data in a clear.
+
+Task 4: Identify Outliers
+
+● Which region is significantly higher or lower? 
+
+Significantly lower: North – its total sales (45K) are noticeably lower than the other regions (55–58K).
+
+Significantly higher: No region is a major outlier on the high end; West, East, and South are fairly close (55–58K), so there isn’t a strong high outlier.
+
+● What might explain that difference? 
+
+North region lower sales could be due to:
+
+   - Fewer stores or branches compared to other regions.
+
+   - Lower population or market demand in that region.
+
+   - Seasonal or operational issues affecting sales.
+
+   - Less effective marketing or product availability compared to other regions.
+     
