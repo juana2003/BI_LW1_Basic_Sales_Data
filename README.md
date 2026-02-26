@@ -1,6 +1,6 @@
  Verify Data in Data View
 
-<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9ec851231bbd17638c11e7d49040ac9057eb3fd8/Verify%20Data%20in%20Data%20View.png" width="100" height="150">
+<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9ec851231bbd17638c11e7d49040ac9057eb3fd8/Verify%20Data%20in%20Data%20View.png" width="200" height="250">
 
 ![Dashboard Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9ec851231bbd17638c11e7d49040ac9057eb3fd8/Verify%20Data%20in%20Data%20View.png)
 
