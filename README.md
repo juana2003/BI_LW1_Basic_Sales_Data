@@ -20,16 +20,18 @@ If Data Type is Incorrect:
 CORRECTED DATA
 
 <img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/If%20Data%20Type%20is%20Incorrect.png" width="700" height="500">
- 
+
 
 CREATING AUTO-GENERATE VISUALS
+
+QUICK VISUALIZATION
 
 <img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/e12885315ecf20bbb99b3d3667ef513e8b8f2ced/Quick%20Visualization.png" width="700" height="500">
  
 
 ● What type of chart was created? Clustered column chart
 
-● What does it show? it shows the sum of sales in form of chart
+● What does it show? it shows the sum of sales 
 
 CREATING SALES BY REGION CHART
 
