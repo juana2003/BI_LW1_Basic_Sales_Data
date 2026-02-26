@@ -18,6 +18,7 @@ If Data Type is Incorrect:
 ○ Product/Category/Region → Text
 
 CORRECTED DATA
+
 <img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/If%20Data%20Type%20is%20Incorrect.png" width="700" height="500">
  
 
