@@ -33,7 +33,7 @@ CREATING AUTO-GENERATE VISUALS
 
 CREATING SALES BY REGION CHART
 
-<img src=" https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Create%20a%20Sales%20by%20Region%20%20Chart(Clustered%20column%20chart).png" width="700" height="500">
+<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Create%20a%20Sales%20by%20Region%20%20Chart(Clustered%20column%20chart).png" width="700" height="500">
 
 
 ● Which region has highest sales? West
