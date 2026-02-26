@@ -24,7 +24,8 @@ CORRECTED DATA
 
 CREATING AUTO-GENERATE VISUALS
 
-![Quick Visualization Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/e12885315ecf20bbb99b3d3667ef513e8b8f2ced/Quick%20Visualization.png)
+<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/e12885315ecf20bbb99b3d3667ef513e8b8f2ced/Quick%20Visualization.png" width="700" height="500">
+ 
 
 ● What type of chart was created? Clustered column chart
 
@@ -32,13 +33,14 @@ CREATING AUTO-GENERATE VISUALS
 
 CREATING SALES BY REGION CHART
 
-![SALES BY REGION Screenshot]( https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Create%20a%20Sales%20by%20Region%20%20Chart(Clustered%20column%20chart).png)
+<img src=" https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Create%20a%20Sales%20by%20Region%20%20Chart(Clustered%20column%20chart).png" width="700" height="500">
+
 
 ● Which region has highest sales? West
 
 SALES BY CATEGORY
 
-![SALES BY CATEGORY Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Sales%20by%20Category%20(Pie%20Chart).png)
+<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Sales%20by%20Category%20(Pie%20Chart).png" width="700" height="500">
 
 ● Which category dominates? Electronics
 
@@ -46,7 +48,8 @@ SALES BY CATEGORY
 
 SALES OVER TIME
 
-![SALES OVER TIME Screenshot](https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Sales%20Over%20Time%20(line%20chart).png)
+<img src="https://github.com/juana2003/BI_LW1_Basic_Sales_Data/blob/9baf3977861b07a07c91a4fa1e2f776dcb5b3b87/Sales%20Over%20Time%20(line%20chart).png" width="700" height="500">
+
 
 ● Is there growth? There's no grownth, Instead of increasing, the sales decreased from 2024 (about 0.2M) to 2025 (about 0.02M).
 
